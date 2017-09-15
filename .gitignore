@@ -1,0 +1,7 @@
+*.py[cod]
+
+# Virtualenvs
+env/
+
+# Instance folder
+#instance/
